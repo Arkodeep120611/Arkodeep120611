@@ -15,14 +15,14 @@ I'm a student who enjoys **programming, building projects, experimenting with te
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frameworks & Tools
 
-![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge\&logo=qt\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📌 Featured Projects
 
@@ -38,9 +38,9 @@ A web application for organizing and browsing **ICSE previous-year question pape
 
 ## 📊 GitHub Stats
 
-![Arkodeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arkodeep120611\&show_icons=true\&hide_border=true)
+![Arkodeep's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Arkodeep120611&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arkodeep120611\&layout=compact\&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Arkodeep120611&layout=compact&hide_border=true)
 
 ## 🌱 Currently Learning
 
@@ -53,7 +53,7 @@ A web application for organizing and browsing **ICSE previous-year question pape
 
 ## 📫 Find Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Arkodeep120611-181717?style=for-the-badge\&logo=github)](https://github.com/Arkodeep120611)
+[![GitHub](https://img.shields.io/badge/GitHub-Arkodeep120611-181717?style=for-the-badge&logo=github)](https://github.com/Arkodeep120611)
 
 ---
 
